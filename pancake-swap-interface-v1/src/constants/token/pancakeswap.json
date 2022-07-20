@@ -67,6 +67,14 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
     },
     {
+      "name": "ThePeoplesToken",
+      "symbol": "TPT",
+      "address":"0xCA612D95961ffb3F1D3884F506F5cC2A9E868ae5",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xCA612D95961ffb3F1D3884F506F5cC2A9E868ae5.png"
+    },
+    {
       "name": "PancakeSwap Token",
       "symbol": "CAKE",
       "address": "0xB8F5B50ed77596b5E638359d828000747bb3dd89",

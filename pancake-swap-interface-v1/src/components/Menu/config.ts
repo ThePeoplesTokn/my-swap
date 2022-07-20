@@ -24,8 +24,8 @@ const config: MenuEntry[] = [
         href: 'https://dapp.nhancv.com',
       },
       {
-        label: 'Lucky Money',
-        href: 'https://dapp.nhancv.com/lucky',
+        label: 'ThePeoplesLotto',
+        href: 'https://thepeopleslotto.com',
       },
     ],
   },
